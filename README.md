@@ -1,6 +1,12 @@
-# 👋 Hello, I'm **Lúcio Tomás João**
+# 👋 Hello, I'm **Lúcio Tomás João (@luciotomasjoao)**
 
 ## 💼 Professional Introduction
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luciotomasjoao&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/luciotomasjoao?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/luciotomasjoao?style=for-the-badge&color=yellow" />
+</p>
 I'm a growing **Embedded Systems Developer** and **Automation Enthusiast**, focused on building practical and impactful solutions using **Arduino**, **ESP32**, **Python**, and **Electronics**. My work envolve prototyping, automation, robotics, and control systems.
 
 Currently, I apply my skills in:
@@ -12,9 +18,21 @@ Currently, I apply my skills in:
 
 My goal is to grow as an engineer, create meaningful technological solutions, and collaborate with the global open‑source community.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ### **Languages & Frameworks**
 - C / C++ (Arduino)
@@ -35,7 +53,9 @@ My goal is to grow as an engineer, create meaningful technological solutions, an
 - Git & GitHub
 - Fritzing / Wokwi
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ## 🏗️ Featured Projects
 
@@ -44,40 +64,52 @@ Ultrasonic detection, adjustable distance (potentiometer), LEDs indicators and s
 
 **Tecnologias:** Arduino, HC-SR04, buzzer, LEDs, potenciômetro.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ### 🔹 **Stepper Motor Control for Embroidery Machine Automation**
 Automation system using NEMA 23, DRV8825 and Arduino to move axes.
 
 **Tecnologias:** Stepper motor, DRV8825, drivers, Arduino Uno.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ### 🔹 **RFID Access Control Prototype**
 Unlocking system with RFID card + buzzer + indication LEDs.
 
 **Tecnologias:** RFID-RC522, Arduino, buzzer e LEDs.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ### 🔹 **DIY Home Writing Machine Using a DVD Reader Mechanism**
 Machine built from old DVD reader motors and rails to draw and write.
 
 **Tecnologias:** Motores de passo pequenos, Arduino e mecânica reciclada.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=luciotomasjoao&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciotomasjoao)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ## 📫 Contact
 - 🌍 Moçambique
 - 📧 (luciotomasjoao@gmail.com)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ### ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
